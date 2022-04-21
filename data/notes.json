@@ -1,0 +1,1145 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1650528812325,
+      "created": 1650528812325,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "pfy4h1nwep9age7eg0u8xe1": {
+      "id": "pfy4h1nwep9age7eg0u8xe1",
+      "title": "Backup Hong Kong Online",
+      "desc": "",
+      "updated": 1650017800424,
+      "created": 1648525691085,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "de4aea5f9e77b65dd820652d98db5d74",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "pfy4h1nwep9age7eg0u8xe1",
+            "vaultName": "vault"
+          },
+          "value": "sites",
+          "alias": "websites or online causes",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 34,
+              "offset": 775
+            },
+            "end": {
+              "line": 15,
+              "column": 71,
+              "offset": 812
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "pfy4h1nwep9age7eg0u8xe1",
+            "vaultName": "vault"
+          },
+          "value": "sites.appledaily",
+          "alias": "sites.appledaily",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 930
+            },
+            "end": {
+              "line": 18,
+              "column": 23,
+              "offset": 950
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.appledaily"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "pfy4h1nwep9age7eg0u8xe1",
+            "vaultName": "vault"
+          },
+          "value": "sites.inmediahk",
+          "alias": "sites.inmediahk",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 965
+            },
+            "end": {
+              "line": 19,
+              "column": 22,
+              "offset": 984
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.inmediahk"
+          }
+        }
+      ],
+      "anchors": {
+        "goals": {
+          "type": "header",
+          "text": "Goals",
+          "value": "goals",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "quick-facts": {
+          "type": "header",
+          "text": "Quick Facts",
+          "value": "quick-facts",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "fzfda8r3h330gsr6wg5db9w",
+        "iu6nr9qel896bjhbckfl05d",
+        "vzihkvznemcaaef2br0s1co",
+        "wx39zljncctue32jn06u29u",
+        "brr1zrug1jl02gi80d1dv8c"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "brr1zrug1jl02gi80d1dv8c": {
+      "id": "brr1zrug1jl02gi80d1dv8c",
+      "title": "Sponsorship",
+      "desc": "",
+      "updated": 1648539430020,
+      "created": 1648539430020,
+      "custom": {},
+      "fname": "sponsorship",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a57aff1638bd7142d26d9e084e1d61ee",
+      "links": [],
+      "anchors": {
+        "donation": {
+          "type": "header",
+          "text": "Donation",
+          "value": "donation",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "helps-from-global-organizations": {
+          "type": "header",
+          "text": "Helps from Global Organizations",
+          "value": "helps-from-global-organizations",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "pfy4h1nwep9age7eg0u8xe1",
+      "data": {}
+    },
+    "wx39zljncctue32jn06u29u": {
+      "id": "wx39zljncctue32jn06u29u",
+      "title": "Sites",
+      "desc": "",
+      "updated": 1650505593135,
+      "created": 1648613469250,
+      "custom": {},
+      "fname": "sites",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "631b3fd8e0d603a3f8a11f3d945739ba",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "sites",
+            "id": "wx39zljncctue32jn06u29u",
+            "vaultName": "vault"
+          },
+          "value": "sites.hkcnews",
+          "alias": "sites.hkcnews",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 4
+            },
+            "end": {
+              "line": 3,
+              "column": 20,
+              "offset": 21
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.hkcnews"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "sites",
+            "id": "wx39zljncctue32jn06u29u",
+            "vaultName": "vault"
+          },
+          "value": "sites.standnews",
+          "alias": "sites.standnews",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 24
+            },
+            "end": {
+              "line": 4,
+              "column": 22,
+              "offset": 43
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.standnews"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "sites",
+            "id": "wx39zljncctue32jn06u29u",
+            "vaultName": "vault"
+          },
+          "value": "sites.inmediahk",
+          "alias": "sites.inmediahk",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 46
+            },
+            "end": {
+              "line": 5,
+              "column": 22,
+              "offset": 65
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.inmediahk"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "sites",
+            "id": "wx39zljncctue32jn06u29u",
+            "vaultName": "vault"
+          },
+          "value": "sites.hkja",
+          "alias": "sites.hkja",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 127
+            },
+            "end": {
+              "line": 7,
+              "column": 17,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.hkja"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "sites",
+            "id": "wx39zljncctue32jn06u29u",
+            "vaultName": "vault"
+          },
+          "value": "sites.post852",
+          "alias": "sites.post852",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 145
+            },
+            "end": {
+              "line": 8,
+              "column": 20,
+              "offset": 162
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.post852"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 34,
+              "offset": 775
+            },
+            "end": {
+              "line": 15,
+              "column": 71,
+              "offset": 812
+            },
+            "indent": []
+          },
+          "value": "sites",
+          "alias": "websites or online causes"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "lu2l12dvswb0hkg33eojaxb",
+        "5iom2ypahedhsabpx592itb",
+        "bv9b47vi18jr87xi5uiy48g",
+        "q92a5qq2k5wjgvijf577o34",
+        "9iipol69duybct6ip77f31w",
+        "egsgjuufo34m4r1084rstob",
+        "b3gelsp88whuvuotw9f03xs",
+        "jriy4sb0p5rbt5wxyulvonx",
+        "fa4wnbx592ldn2ymb87u7hd",
+        "33ntwiqahd4qwoaeecdn9af",
+        "q6ovd682gm79nej500y0bv3"
+      ],
+      "parent": "pfy4h1nwep9age7eg0u8xe1",
+      "data": {}
+    },
+    "q6ovd682gm79nej500y0bv3": {
+      "id": "q6ovd682gm79nej500y0bv3",
+      "title": "Stand News (立場新聞)",
+      "desc": "",
+      "updated": 1650505568299,
+      "created": 1650505108657,
+      "custom": {},
+      "fname": "sites.standnews",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "54eb85bdd424e73aa3f97c96ba6a55ff",
+      "links": [
+        {
+          "from": {
+            "fname": "sites",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 24
+            },
+            "end": {
+              "line": 4,
+              "column": 22,
+              "offset": 43
+            },
+            "indent": []
+          },
+          "value": "sites.standnews",
+          "alias": "sites.standnews"
+        }
+      ],
+      "anchors": {
+        "urls": {
+          "type": "header",
+          "text": "URLs",
+          "value": "urls",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "33ntwiqahd4qwoaeecdn9af": {
+      "id": "33ntwiqahd4qwoaeecdn9af",
+      "title": "Post852",
+      "desc": "",
+      "updated": 1650520106786,
+      "created": 1650468180922,
+      "custom": {},
+      "fname": "sites.post852",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1f6d8fe1337d62fb4e06dc3a0ae435fb",
+      "links": [
+        {
+          "from": {
+            "fname": "sites",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 145
+            },
+            "end": {
+              "line": 8,
+              "column": 20,
+              "offset": 162
+            },
+            "indent": []
+          },
+          "value": "sites.post852",
+          "alias": "sites.post852"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "fa4wnbx592ldn2ymb87u7hd": {
+      "id": "fa4wnbx592ldn2ymb87u7hd",
+      "title": "Hong Kong Public Opinion Research Institute",
+      "desc": "",
+      "updated": 1648712062179,
+      "created": 1648712062179,
+      "custom": {},
+      "fname": "sites.pori",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8605a6629eb5ef440007772a1fbc58c6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "jriy4sb0p5rbt5wxyulvonx": {
+      "id": "jriy4sb0p5rbt5wxyulvonx",
+      "title": "Inmediahk 獨立媒體",
+      "desc": "",
+      "updated": 1650505920051,
+      "created": 1648712022165,
+      "custom": {},
+      "fname": "sites.inmediahk",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2071e954b2a36e0283ccdfe97b29bbad",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 965
+            },
+            "end": {
+              "line": 19,
+              "column": 22,
+              "offset": 984
+            },
+            "indent": []
+          },
+          "value": "sites.inmediahk",
+          "alias": "sites.inmediahk"
+        },
+        {
+          "from": {
+            "fname": "sites",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 46
+            },
+            "end": {
+              "line": 5,
+              "column": 22,
+              "offset": 65
+            },
+            "indent": []
+          },
+          "value": "sites.inmediahk",
+          "alias": "sites.inmediahk"
+        }
+      ],
+      "anchors": {
+        "artifacts": {
+          "type": "header",
+          "text": "Artifacts",
+          "value": "artifacts",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to-playback": {
+          "type": "header",
+          "text": "How to playback",
+          "value": "how-to-playback",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "b3gelsp88whuvuotw9f03xs": {
+      "id": "b3gelsp88whuvuotw9f03xs",
+      "title": "Hong Kong Watch",
+      "desc": "",
+      "updated": 1650423925124,
+      "created": 1650423908013,
+      "custom": {},
+      "fname": "sites.hongkongwatch",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f08722a8f90f81d020d83e8201ad73c9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "egsgjuufo34m4r1084rstob": {
+      "id": "egsgjuufo34m4r1084rstob",
+      "title": "The Hong Kong Journalists Association",
+      "desc": "",
+      "updated": 1648712055894,
+      "created": 1648712055894,
+      "custom": {},
+      "fname": "sites.hkja",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b1e6218428e90b0dc5862b78d5284a52",
+      "links": [
+        {
+          "from": {
+            "fname": "sites",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 127
+            },
+            "end": {
+              "line": 7,
+              "column": 17,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "value": "sites.hkja",
+          "alias": "sites.hkja"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "9iipol69duybct6ip77f31w": {
+      "id": "9iipol69duybct6ip77f31w",
+      "title": "Hong Kong Free Press",
+      "desc": "",
+      "updated": 1648712132647,
+      "created": 1648712132647,
+      "custom": {},
+      "fname": "sites.hkfp",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b104b3ff061d73c9ccfb0f34de10d067",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "q92a5qq2k5wjgvijf577o34": {
+      "id": "q92a5qq2k5wjgvijf577o34",
+      "title": "Hkfeature",
+      "desc": "",
+      "updated": 1649945015148,
+      "created": 1649944029703,
+      "custom": {},
+      "fname": "sites.hkfeature",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "29019b6dbf7e9fa73610895c7525ca90",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "bv9b47vi18jr87xi5uiy48g": {
+      "id": "bv9b47vi18jr87xi5uiy48g",
+      "title": "Citizen News(眾新聞)",
+      "desc": "",
+      "updated": 1650505487085,
+      "created": 1650505467317,
+      "custom": {},
+      "fname": "sites.hkcnews",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "46d394339ea4ba8259db3481d6f959d6",
+      "links": [
+        {
+          "from": {
+            "fname": "sites",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 4
+            },
+            "end": {
+              "line": 3,
+              "column": 20,
+              "offset": 21
+            },
+            "indent": []
+          },
+          "value": "sites.hkcnews",
+          "alias": "sites.hkcnews"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "5iom2ypahedhsabpx592itb": {
+      "id": "5iom2ypahedhsabpx592itb",
+      "title": "Factwire",
+      "desc": "",
+      "updated": 1650520095567,
+      "created": 1650474501518,
+      "custom": {},
+      "fname": "sites.factwire",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "39ab81813770851635540f3f19e3af67",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "lu2l12dvswb0hkg33eojaxb": {
+      "id": "lu2l12dvswb0hkg33eojaxb",
+      "title": "Appledaily",
+      "desc": "",
+      "updated": 1649922460599,
+      "created": 1648613477814,
+      "custom": {},
+      "fname": "sites.appledaily",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9071053277c42df30aa9e53533c034a2",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 930
+            },
+            "end": {
+              "line": 18,
+              "column": 23,
+              "offset": 950
+            },
+            "indent": []
+          },
+          "value": "sites.appledaily",
+          "alias": "sites.appledaily"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "wx39zljncctue32jn06u29u",
+      "data": {}
+    },
+    "vzihkvznemcaaef2br0s1co": {
+      "id": "vzihkvznemcaaef2br0s1co",
+      "title": "Participation",
+      "desc": "",
+      "updated": 1649833665765,
+      "created": 1648539279659,
+      "custom": {},
+      "fname": "participation",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "08e67a66ee60675e846645e3ad754ec2",
+      "links": [],
+      "anchors": {
+        "prerequisites": {
+          "type": "header",
+          "text": "Prerequisites",
+          "value": "prerequisites",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "this-is-to-show-some-changes-made-by-m-on-13-april-2022-at-1507": {
+          "type": "header",
+          "text": "This is to show some changes made by M on 13 April 2022 at 15:07",
+          "value": "this-is-to-show-some-changes-made-by-m-on-13-april-2022-at-1507",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "pfy4h1nwep9age7eg0u8xe1",
+      "data": {}
+    },
+    "iu6nr9qel896bjhbckfl05d": {
+      "id": "iu6nr9qel896bjhbckfl05d",
+      "title": "Howto",
+      "desc": "",
+      "updated": 1649912178447,
+      "created": 1648539827519,
+      "custom": {},
+      "fname": "howto",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "bf14e3351ae7212a2d44a7f2ac7b093b",
+      "links": [],
+      "anchors": {
+        "archive-single-pages": {
+          "type": "header",
+          "text": "Archive single pages",
+          "value": "archive-single-pages",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "archive-the-whole-site": {
+          "type": "header",
+          "text": "Archive the whole site",
+          "value": "archive-the-whole-site",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "replay-the-sites": {
+          "type": "header",
+          "text": "Replay the Sites",
+          "value": "replay-the-sites",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "pfy4h1nwep9age7eg0u8xe1",
+      "data": {}
+    },
+    "fzfda8r3h330gsr6wg5db9w": {
+      "id": "fzfda8r3h330gsr6wg5db9w",
+      "title": "Background",
+      "desc": "",
+      "updated": 1650029522181,
+      "created": 1648526223736,
+      "custom": {},
+      "fname": "background",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "106e222fc8085b8d04bf115ef7515844",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "pfy4h1nwep9age7eg0u8xe1",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "pfy4h1nwep9age7eg0u8xe1",
+      "title": "Backup Hong Kong Online",
+      "desc": "",
+      "updated": 1650017800424,
+      "created": 1648525691085,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "de4aea5f9e77b65dd820652d98db5d74",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "pfy4h1nwep9age7eg0u8xe1",
+            "vaultName": "vault"
+          },
+          "value": "sites",
+          "alias": "websites or online causes",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 34,
+              "offset": 775
+            },
+            "end": {
+              "line": 15,
+              "column": 71,
+              "offset": 812
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "pfy4h1nwep9age7eg0u8xe1",
+            "vaultName": "vault"
+          },
+          "value": "sites.appledaily",
+          "alias": "sites.appledaily",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 930
+            },
+            "end": {
+              "line": 18,
+              "column": 23,
+              "offset": 950
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.appledaily"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "pfy4h1nwep9age7eg0u8xe1",
+            "vaultName": "vault"
+          },
+          "value": "sites.inmediahk",
+          "alias": "sites.inmediahk",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 965
+            },
+            "end": {
+              "line": 19,
+              "column": 22,
+              "offset": 984
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sites.inmediahk"
+          }
+        }
+      ],
+      "anchors": {
+        "goals": {
+          "type": "header",
+          "text": "Goals",
+          "value": "goals",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "quick-facts": {
+          "type": "header",
+          "text": "Quick Facts",
+          "value": "quick-facts",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "fzfda8r3h330gsr6wg5db9w",
+        "iu6nr9qel896bjhbckfl05d",
+        "vzihkvznemcaaef2br0s1co",
+        "wx39zljncctue32jn06u29u",
+        "brr1zrug1jl02gi80d1dv8c"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n[![Great Extinction](./assets/extinctions.jpeg)](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/) (_Courtesy: Hong Kong Freepress, 2021_)\n\nBackup Hong Kong Online(BHKO) is a community project to preserve those disappearing online web sites since 2019~ and on. It's anonymous and open source, with the support from a lot of online users. \n\n\n## Goals\n- To preserve as much information as possible before its disappearance during Hong Kong's great transition\n- To illustrate a viable method that everyone can use to help preserve online heritage with no pains\n- To demonstrate global collaborations to save local digital heritages with best practices\n\n\n## Quick Facts\n\nWe are working on over dozens of [[websites or online causes | sites]] in Hong Kong in the past two decades which has been forced to shutdown or at the brink of disappearing:\n\nExamples:\n- [[sites.appledaily]] (Extincted)\n- [[sites.inmediahk]] (In Danger)\n\n\n\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "pfy4h1nwep9age7eg0u8xe1",
+    "title": "Backup Hong Kong Online",
+    "desc": "",
+    "updated": 1650017800424,
+    "created": 1648525691085,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "de4aea5f9e77b65dd820652d98db5d74",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "pfy4h1nwep9age7eg0u8xe1",
+          "vaultName": "vault"
+        },
+        "value": "sites",
+        "alias": "websites or online causes",
+        "position": {
+          "start": {
+            "line": 15,
+            "column": 34,
+            "offset": 775
+          },
+          "end": {
+            "line": 15,
+            "column": 71,
+            "offset": 812
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "sites"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "pfy4h1nwep9age7eg0u8xe1",
+          "vaultName": "vault"
+        },
+        "value": "sites.appledaily",
+        "alias": "sites.appledaily",
+        "position": {
+          "start": {
+            "line": 18,
+            "column": 3,
+            "offset": 930
+          },
+          "end": {
+            "line": 18,
+            "column": 23,
+            "offset": 950
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "sites.appledaily"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "pfy4h1nwep9age7eg0u8xe1",
+          "vaultName": "vault"
+        },
+        "value": "sites.inmediahk",
+        "alias": "sites.inmediahk",
+        "position": {
+          "start": {
+            "line": 19,
+            "column": 3,
+            "offset": 965
+          },
+          "end": {
+            "line": 19,
+            "column": 22,
+            "offset": 984
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "sites.inmediahk"
+        }
+      }
+    ],
+    "anchors": {
+      "goals": {
+        "type": "header",
+        "text": "Goals",
+        "value": "goals",
+        "line": 13,
+        "column": 0,
+        "depth": 2
+      },
+      "quick-facts": {
+        "type": "header",
+        "text": "Quick Facts",
+        "value": "quick-facts",
+        "line": 19,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "fzfda8r3h330gsr6wg5db9w",
+      "iu6nr9qel896bjhbckfl05d",
+      "vzihkvznemcaaef2br0s1co",
+      "wx39zljncctue32jn06u29u",
+      "brr1zrug1jl02gi80d1dv8c"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n[![Great Extinction](./assets/extinctions.jpeg)](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/) (_Courtesy: Hong Kong Freepress, 2021_)\n\nBackup Hong Kong Online(BHKO) is a community project to preserve those disappearing online web sites since 2019~ and on. It's anonymous and open source, with the support from a lot of online users. \n\n\n## Goals\n- To preserve as much information as possible before its disappearance during Hong Kong's great transition\n- To illustrate a viable method that everyone can use to help preserve online heritage with no pains\n- To demonstrate global collaborations to save local digital heritages with best practices\n\n\n## Quick Facts\n\nWe are working on over dozens of [[websites or online causes | sites]] in Hong Kong in the past two decades which has been forced to shutdown or at the brink of disappearing:\n\nExamples:\n- [[sites.appledaily]] (Extincted)\n- [[sites.inmediahk]] (In Danger)\n\n\n\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
